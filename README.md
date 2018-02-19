@@ -8,17 +8,6 @@ FindYourBus es un website que te permite realizar comparaciones entre los princi
 
 
 
-# Proyecto: NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
-
-## Equipo Ying-Yang Design
-
-* Nataly Cortez
-* Karina Buhezo
-* Andrea Encarnación
-* Isabel Chávez
-* Shannon Rivera
-* Ada Yajahuanca
-
 ### EL RETO:
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente.
 Durante sus viajes Catalina se dió cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc.
@@ -566,3 +555,13 @@ Hombre 24 años
 * No le encuentra sentido a logearse.
 
 * Le gustaría ver fotos de los buses o descripciones más precisas.
+
+
+## Equipo Ying-Yang Design
+
+* Nataly Cortez
+* Karina Buhezo
+* Andrea Encarnación
+* Isabel Chávez
+* Shannon Rivera
+* Ada Yajahuanca
