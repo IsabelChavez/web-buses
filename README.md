@@ -1,5 +1,5 @@
 # Viaggio
-Viaggio quiere reducir la falta de información sobre las opciones de viaje en bus y sus servicios. Los usuarios pueden visualizar no sólo la información ofrecida por la empresa, sino también los comentarios de diversos usuarios.
+Viaggio es un website que te permite realizar comparaciones entre los principales servicios que brindan los buses interprovinciales, además muestra  un mapa con la ruta y paradas. Todo esto con el objetivo de brindar comodidad y seguridad a los pasajeros que escojan un bus.
 
 ![visualizacion-01](https://user-images.githubusercontent.com/32303418/36361934-35457edc-14fe-11e8-955e-c8a77426b076.jpg)
 
